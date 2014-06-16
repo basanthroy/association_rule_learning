@@ -1,0 +1,5 @@
+echo "calling curl"
+
+wget "http://www.googleadservices.com/pagead/aclk?sa=L&ai=CjHHPSWN3U5e8Fs_f0AH9n4G4B8SOjO8EhKv075sBwI23ARABIIaPgAJQ48vZ1Pz_____AWDJ3p2LwKTYD6ABqu-2_wPIAQGpAnfL044iOLw-qAMBqgSSAU_QCJD4H3Pd_btvAkWZD7us24VkWcXdXM0J_R79i22Goe-3rh7QJ3poyZ4pdX50ydeonA8PglSyAlEhFrig719XIo6DZSt7e4d5z6qBMG0B5fOQteYFYEYb1dGiD-4FiRWFZBShROj2cuHt7RRN2ImQzejt4Ugv9otUsqQQdNoy-q-byUQa4eAMF91r8c0R4IZXgAe-kEk&num=1&sig=AOD64_0_yK2MK6fzW8Rvyw5pM0t1leUUkQ&adurl=http://www.ebasetech.com"
+
+echo "finished"
