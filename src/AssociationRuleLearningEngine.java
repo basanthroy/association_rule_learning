@@ -1,5 +1,5 @@
-import com.knewton.AssociationRuleLearning;
-import com.knewton.AssociationRuleLearningImpl;
+import com.associationrl.AssociationRuleLearning;
+import com.associationrl.AssociationRuleLearningImpl;
 
 
 /**

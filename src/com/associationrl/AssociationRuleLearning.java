@@ -1,4 +1,4 @@
-package com.knewton;
+package com.associationrl;
 
 public interface AssociationRuleLearning {
 	

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.knewton;
+package com.associationrl;
 
 import java.io.IOException;
 import java.io.RandomAccessFile;

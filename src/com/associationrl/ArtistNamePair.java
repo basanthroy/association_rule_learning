@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.knewton;
+package com.associationrl;
 
 /**
  * Stores a pair of artist names. The names are
